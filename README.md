@@ -35,6 +35,10 @@ I am passionate about technology and an apprentice in the development world. I h
 ![imagen](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![imagen](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
+# My status
+
+![JesusBustamante's Stats](https://github-readme-stats.vercel.app/api?username=JesusBustamante&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
 ## Anything else
 
 🎯 Next, I'll start learning JavaScript
