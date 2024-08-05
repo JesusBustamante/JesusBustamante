@@ -38,7 +38,9 @@ I am passionate about technology and an apprentice in the development world. I h
 # My status
 
 ![JesusBustamante's Stats](https://github-readme-stats.vercel.app/api?username=JesusBustamante&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
 ![JesusBustamante's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JesusBustamante&theme=tokyonight&hide_border=true)
+
 ![JesusBustamante's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusBustamante&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ## Anything else
