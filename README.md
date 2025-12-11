@@ -51,8 +51,8 @@ I am passionate about technology and an apprentice in the development world. I h
 
 # My status
 
-![](https://raw.githubusercontent.com/JesusBustamante/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/JesusBustamante/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![imagen](https://raw.githubusercontent.com/JesusBustamante/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![imagen](https://raw.githubusercontent.com/JesusBustamante/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 ## Anything else
 
