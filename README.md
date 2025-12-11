@@ -25,6 +25,12 @@ I am passionate about technology and an apprentice in the development world. I h
 ![imagen](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![imagen](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
+###  Frameworks
+
+![imagen](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![imagen](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![imagen](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
 ### Design 
 
 ![imagen](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
@@ -40,17 +46,13 @@ I am passionate about technology and an apprentice in the development world. I h
 ![imagen](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![imagen](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![imagen](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![imagen](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
+![imagen](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 # My status
 
-![JesusBustamante's Stats](https://github-readme-stats.vercel.app/api?username=JesusBustamante&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
-![JesusBustamante's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JesusBustamante&theme=tokyonight&hide_border=true)
-
-![JesusBustamante's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusBustamante&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![](https://raw.githubusercontent.com/JesusBustamante/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/JesusBustamante/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 ## Anything else
 
-🎯 Next, I'll start learning JavaScript
-
-🌱 Now, I'm learning Git
